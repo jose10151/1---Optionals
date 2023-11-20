@@ -5,7 +5,9 @@
  */
 let userInputAge: String = "34e"
 
-
+func checkAge (a: String) -> Int? {
+    
+}
 //:  Go back and update your function to return the age as an integer. Will your function always return a value? Make sure your return type accurately reflects this. Call the function and print the return value.
 
 
